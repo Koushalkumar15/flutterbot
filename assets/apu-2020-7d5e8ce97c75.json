@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apu-2020",
+  "private_key_id": "7d5e8ce97c75c561879877978421acad67b13e0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCgZr1Z7OgardzE\nrMIpWxdjym1x3O1bdtIrvPdaVNIMnj2hM50/nKPTgQDn9a93zfOnbSwQLsbTUMPj\n+4vy0pmvDTJs9EA3XHu+FTs+XmmzJxrb4hhMKtqUrS70nZ7ZyNhjFzOGrypE3byc\nP7vz7iyLnRYcn4x2TqWsoFadsTkbcTg4xPs2TrDYJRTfiZHYsr5bKTaFUPUBmoaG\neJsFTO71/mrS/4yHkbMJsCDUNZsmffXkOJmqn//hJG6ghkIMjFrywP5Z0PjRQM+U\n/P9lzT/w4+umTy7C1iyDS3cAk71Wj4I9o00u1kLiDtEKEKSQ64+2XBJXK61HP9XW\nb7gaBHybAgMBAAECggEACZjMC6hsfkTyJTd7sHMmRzUYoj9IWXh8/HS+AE+vd5jN\nWCrZGP67hvW8QtfRkhbAIfLN6zPy3Z7PizSE+/GUx1zAErVa1QhTN2nx+8cBucae\n4t84RyP2cWUBOIDoia0GIVU4iUtLeW5VqnjEiCr//rE9EVfy1MgOcPGKhr0Dpsjh\nnShA+hcXoquzmdhp2Y1HKRdy70LcZ66xax5FF6/zNFiyY87UW//QGujmV4sML8fc\nfgLBzRdedrJ/vjCDk7ak+21Ow98oUVVoHjkPa2fKjrSeyKRQZRXbmn+sAPn7nSjS\nIIH6eukkrdSRdXxoDgYyct+sqhM6txqzcyX7GmcJPQKBgQDR4PGHDdNZvoBa4B2H\nh4Avg/ODqvis7YCZ1YfUUqqndcwdSM9ZS5kvkAtp2kgcNsVKxH1CGQvCv+xFDElk\nItXJn8mGtKuaKhvRgs5SPwAPelLz2k6HIX8XPVc3lJ4p2wCTHkDf3qhrRW7vj4/U\nZWi1aeBburvrdxrNfYfQfZQ07QKBgQDDpl6ME6MtW4k4/8EJ7yqB1lqXUFin6WIy\nt9ebZSrKRBRTrt2epoCvHluRx22kC01lVUcTpzROziz9Mnja/9Mhoa9RfgR8JohP\nuXvWVlzsPn+ifouVuMnBXJdKchc2h5avQ0KAhzIRKIAlI6cvydmq7Yb0Ed0VBtXP\nESwTLBUOpwKBgQCzkhv06p5flb/qgQCi+gtyHBrZGAqmopq6hFkwD/7VQtN+ZtKJ\n20XYzQ0G5211PmN1gkKNsDJA0ccMmOOeWrPCTAW4TJLaV5bvnlR7SE378DRTUgCI\nW9+KecBK3MyqkSefuG3XXYGKLqEpNRLhrlZ1iX4d3dp1L7XuBa6Tcy7ATQKBgCac\nwPAYOA4NkKllIC3bu6HgMgTG4JhS4QRtb+nFL4q3oONbEXXsGl11OlEs8KB9corb\nJ6njR9l9qzdVLLDb6Eks5bLJkg0GdcR2MNB+PtyJARuKqfWkgHzezyTsG1SxsbVp\nKsi+5cypF5E81hQCXCj1s7qbg+xQawXwt6gY/RblAoGBAKpODXlLPNroQv4J2vs7\n5FDWBObRdugxJSlBN4OUpUKkEtqZbz0KJbDadK/nFt/fLLAxex0ooXMbhoryhG2K\neggizbBoC9zO3gGHVqDGz8fNPOHs0t2deKNvAXBL0Hry/T1lbTBNs4sUiwfEC/2M\nqFTRAYOXlSEwkVUeXjlU2zBu\n-----END PRIVATE KEY-----\n",
+  "client_email": "psybot@apu-2020.iam.gserviceaccount.com",
+  "client_id": "115283536099777654793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/psybot%40apu-2020.iam.gserviceaccount.com"
+}
